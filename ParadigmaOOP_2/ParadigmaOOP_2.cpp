@@ -41,3 +41,9 @@ public:
 		cout << "budi dibaut\n" << endl;
 	}
 };
+
+int main() {
+	budi a(22);
+
+	return 0;
+}
